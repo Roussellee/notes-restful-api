@@ -24,8 +24,8 @@ Notes API - это RESTful API для системы управления зам
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <ссылка на ваш репозиторий>
-   cd notes-api
+   git clone https://github.com/Roussellee/notes-restful-api.git
+   cd notes-restful-api
 2. Установите зависимости:
    ```
     go mod tidy
