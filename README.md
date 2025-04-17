@@ -41,6 +41,7 @@ Notes API - это RESTful API для системы управления зам
     ```
    docker-compose up --build
 5. Откройте Swagger UI в браузере по адресу http://localhost:8080/swagger/index.html для просмотра документации API (Большинство запросов работает адекватно только через Postman).
+6. Откройте PgAdmin4 для просмотра базы данных по адресу http://localhost:5050
 
 ## Контейнеризация
 
